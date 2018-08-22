@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Workspaces\\androidWork\\demo-1D_as\\app\\build\\intermediates\\res\\merged\\release\\layout\\input_delete.xml",
+        "source": "D:\\Workspaces\\androidWork\\demo-1D_as\\app\\src\\main\\res\\layout\\input_delete.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\androidWork\\demo-1D_as\\app\\build\\intermediates\\res\\merged\\release\\layout\\main.xml",
+        "source": "D:\\Workspaces\\androidWork\\demo-1D_as\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\androidWork\\demo-1D_as\\app\\build\\intermediates\\res\\merged\\release\\layout\\input_edit.xml",
+        "source": "D:\\Workspaces\\androidWork\\demo-1D_as\\app\\src\\main\\res\\layout\\input_edit.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\androidWork\\demo-1D_as\\app\\build\\intermediates\\res\\merged\\release\\layout\\items.xml",
+        "source": "D:\\Workspaces\\androidWork\\demo-1D_as\\app\\src\\main\\res\\layout\\items.xml"
+    },
+    {
+        "merged": "D:\\Workspaces\\androidWork\\demo-1D_as\\app\\build\\intermediates\\res\\merged\\release\\layout\\input_add.xml",
+        "source": "D:\\Workspaces\\androidWork\\demo-1D_as\\app\\src\\main\\res\\layout\\input_add.xml"
+    }
+]
