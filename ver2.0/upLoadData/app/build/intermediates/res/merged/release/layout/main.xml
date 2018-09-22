@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button
+            android:layout_width="fill_parent"
+            android:text="修改数量"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/edit_num"/>
+
+        <Button
+            android:layout_width="fill_parent"
+            android:text="删除数据"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/delete_id"/>
+
+        <Button
+            android:layout_width="fill_parent"
+            android:text="修改商铺ID"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/edit_id"/>
+    </LinearLayout>
+
+    <RadioGroup
+        android:id="@+id/list_type"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/daily_upload"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:layout_weight="1"
+            android:text="上货"/>
+
+        <RadioButton
+            android:id="@+id/daily_import"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="入库"/>
+
+        <RadioButton
+            android:id="@+id/mouth_check"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="盘点"/>
+    </RadioGroup>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="商铺ID"/>
+
+        <TextView
+            android:id="@+id/shop_id"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:gravity="center"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/submit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="提交"/>
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/show_result"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+
+    </ListView>
+</LinearLayout>

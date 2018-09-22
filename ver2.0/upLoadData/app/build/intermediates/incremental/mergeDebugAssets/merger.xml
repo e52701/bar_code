@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="0.9.21"><source path="D:\Workspaces\androidWork\upLoadData\app\build\intermediates\exploded-aar\com.github.ctiao\ndkbitmap-x86\0.9.21\assets"/></dataSet><dataSet config="main"><source path="D:\Workspaces\androidWork\upLoadData\app\src\main\assets"><file name="json.txt" path="D:\Workspaces\androidWork\upLoadData\app\src\main\assets\json.txt"/></source></dataSet><dataSet config="debug"><source path="D:\Workspaces\androidWork\upLoadData\app\src\debug\assets"/></dataSet></merger>

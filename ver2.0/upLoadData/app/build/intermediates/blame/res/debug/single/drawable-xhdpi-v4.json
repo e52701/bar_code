@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\ThinkPad\\Desktop\\work\\demo_better\\demo-1DBarcode_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\ThinkPad\\Desktop\\work\\demo_better\\demo-1DBarcode_as\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\androidWork\\upLoadData\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\Workspaces\\androidWork\\upLoadData\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Workspaces\\androidWork\\demo-1D_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\Workspaces\\androidWork\\demo-1D_as\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]
